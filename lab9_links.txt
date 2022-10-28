@@ -1,0 +1,5 @@
+Question1: https://public.tableau.com/views/lab9_q1/lab9_Q1?:language=en-US&publish=yes&:display_count=n&:origin=viz_share_link
+Question2:https://public.tableau.com/views/lab9_q2/lab9_Q2?:language=en-US&publish=yes&:display_count=n&:origin=viz_share_link
+Question3:https://public.tableau.com/views/lab9_q3/lab9_Q3?:language=en-US&publish=yes&:display_count=n&:origin=viz_share_link
+Question4:https://public.tableau.com/views/lab9_q4/Dashboard2?:language=en-US&publish=yes&:display_count=n&:origin=viz_share_link
+Question5:https://public.tableau.com/views/lab9_q5/Story2?:language=en-US&publish=yes&:display_count=n&:origin=viz_share_link
